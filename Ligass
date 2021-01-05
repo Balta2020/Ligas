@@ -1,0 +1,19 @@
+
+
+#EXTM3U
+#EXTINF:-1,Sports1
+https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8?
+#EXTINF:-1,Sports2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8?
+#EXTINF:-1,TNT SPORTS
+https://live.televisiongratishd.com/tvplus2021/9_.m3u8?token=59iP0-j0_Opu7T71n5WcpQ&expires=1609654382
+#EXTINF:-1,Sports3
+https://eb38c922ecb6.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.512830612713.channel.kcdujKABPsu3.m3u8?per
+#EXTINF:-1,Sports4
+https://c787898.com/embed.php?id=live4
+#EXTINF:-1,Sports5
+https://c787898.com/embed.php?id=live1
+#EXTINF:-1,Sports6
+https://c787898.com/embed.php?id=live2
+#EXTINF:-1,Sports7
+https://c787898.com/embed.php?id=live5
